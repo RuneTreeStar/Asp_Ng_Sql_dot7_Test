@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp_Ng_Sql_dot7_Test", "Asp_Ng_Sql_dot7_Test.csproj", "{144D2EF9-7ACE-40F3-8262-FBAABE59D28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144D2EF9-7ACE-40F3-8262-FBAABE59D28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144D2EF9-7ACE-40F3-8262-FBAABE59D28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144D2EF9-7ACE-40F3-8262-FBAABE59D28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144D2EF9-7ACE-40F3-8262-FBAABE59D28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4FF031-A04F-4602-B392-2D77281DC312}
+	EndGlobalSection
+EndGlobal
